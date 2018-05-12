@@ -1,0 +1,24 @@
+ls <> ls -a ls -l
+la <>查看<>所有文件和目录
+ll <>查看<>文件和目录的详细信息
+tab两下
+mv 文件（夹） 路径
+mv 文件（夹） 文件（夹）
+mv 文件（夹） 路径/文件（夹）
+挪来挪去，还能改名字
+cp（copy）
+rm 文件1 文件2 ...
+rm -r(or)-rf 目录
+mkdir
+touch
+cat 查看一个文件的内容
+gedit/vim 文件
+vim
+i insert
+esc :w 保存
+esc 5dd 删除5行
+esc 
+tmux 分屏
+ssh
+tmux attach -t 0
+ctrl+b %
